@@ -120,6 +120,10 @@
 		<TaxiwayPath parentGroupID="1" groupIndex="72" type="TAXI" surface="{052FEFB1-11E3-4951-B5C4-D93CE253FD9E}" centerLine="FALSE" start="53" end="52" width="24.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath parentGroupID="1" groupIndex="28" type="RUNWAY" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="43" end="52" width="30.000000" weightLimit="0" number="04" designator="NONE" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<Runway displayName="04-22" parentGroupID="1" groupIndex="13" lat="40.49676849525176" lon="-3.44575357801980" alt="617.45877351518720" heading="43.33000564575195" length="3658.00000000000000" width="60.00000000000000" patternAltitude="304.79998779296875" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="04" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="FALSE" excludeVegetationAround="TRUE">
+			<RunwayDeformation alt="599.510010" ratio="0.000000"/>
+			<RunwayDeformation alt="602.340027" ratio="0.247676"/>
+			<RunwayDeformation alt="607.500000" ratio="0.663751"/>
+			<RunwayDeformation alt="617.669983" ratio="1.000000"/>
 			<Coloration red="100" green="100" blue="100" alpha="255" override="TRUE"/>
 			<Markings edges="TRUE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="TRUE" alternateFixedDistance="FALSE" touchdown="TRUE" alternateTouchdown="FALSE" dashes="TRUE" ident="TRUE" leadingZeroIdent="TRUE" precision="TRUE" alternatePrecision="FALSE" edgePavement="TRUE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="MEDIUM" edge="MEDIUM"/>
