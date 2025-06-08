@@ -129,7 +129,7 @@
 			<Lights center="MEDIUM" edge="MEDIUM"/>
 			<BlastPad end="PRIMARY" surface="{00000000-0000-0000-0000-000000000000}" length="578.000000"/>
 			<BlastPad end="SECONDARY" surface="{00000000-0000-0000-0000-000000000000}" length="325.000000"/>
-			<ApproachLights end="PRIMARY" system="NONE" strobes="0" endLights="TRUE" touchdown="FALSE" snapToGround="TRUE" reil="FALSE" offset="30.480000" spacing="50.000000" slope="0.000000"/>
+			<ApproachLights end="PRIMARY" system="CALVERT" strobes="0" endLights="TRUE" touchdown="FALSE" snapToGround="TRUE" reil="FALSE" offset="30.480000" spacing="50.000000" slope="0.000000"/>
 			<ApproachLights end="SECONDARY" system="CALVERT" strobes="0" endLights="TRUE" touchdown="FALSE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.480000" slope="0.000000"/>
 			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="45.000000" biasZ="914.500000" spacing="9.000000" pitch="3.000000"/>
 			<Vasi end="PRIMARY" side="RIGHT" type="PAPI4" biasX="45.000000" biasZ="914.500000" spacing="9.000000" pitch="3.000000"/>
