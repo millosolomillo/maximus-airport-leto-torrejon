@@ -57,8 +57,74 @@
 		<TaxiwayPoint parentGroupID="1" groupIndex="33" index="50" type="HOLD_SHORT_NO_DRAW" orientation="FORWARD" lat="40.48504901458098" lon="-3.45527008430942"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="30" index="52" type="NORMAL" orientation="FORWARD" lat="40.50844155190254" lon="-3.43132174941733"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="66" index="53" type="NORMAL" orientation="FORWARD" lat="40.50838234600502" lon="-3.43092572690765"/>
-		<TaxiwayParking parentGroupID="1" groupIndex="6" index="46" type="RAMP_MIL_CARGO" lat="40.48436237832119" lon="-3.45320793315231" heading="223.847107" radius="35.000000" name="NONE" number="1" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="1" groupIndex="3" index="47" type="RAMP_MIL_CARGO" lat="40.48387446842099" lon="-3.45251832572659" heading="223.624527" radius="35.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		
+		<TaxiwayParking parentGroupID="1" index="54" type="RAMP_MIL_CARGO" lat="40.4801" lon="-3.4569" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="55" type="RAMP_MIL_CARGO" lat="40.4803" lon="-3.4572" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="56" type="RAMP_MIL_CARGO" lat="40.4806" lon="-3.4575" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		
+		<TaxiwayParking parentGroupID="1" index="57" type="RAMP_MIL_CARGO" lat="40.4805" lon="-3.4563" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="58" type="RAMP_MIL_CARGO" lat="40.4807" lon="-3.4567" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="59" type="RAMP_MIL_CARGO" lat="40.4809" lon="-3.4570" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		
+		<TaxiwayParking parentGroupID="1" index="60" type="RAMP_MIL_CARGO" lat="40.4809" lon="-3.4558" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="61" type="RAMP_MIL_CARGO" lat="40.4812" lon="-3.4561" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="62" type="RAMP_MIL_CARGO" lat="40.4814" lon="-3.4564" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		
+		<TaxiwayParking parentGroupID="1" index="63" type="RAMP_MIL_CARGO" lat="40.4813" lon="-3.4553" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="64" type="RAMP_MIL_CARGO" lat="40.4816" lon="-3.4556" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="65" type="RAMP_MIL_CARGO" lat="40.4818" lon="-3.4559" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		
+		<TaxiwayParking parentGroupID="1" index="66" type="RAMP_MIL_CARGO" lat="40.4819" lon="-3.4546" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="67" type="RAMP_MIL_CARGO" lat="40.4821" lon="-3.4549" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="68" type="RAMP_MIL_CARGO" lat="40.4823" lon="-3.4553" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="69" type="RAMP_MIL_CARGO" lat="40.4826" lon="-3.4556" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="70" type="RAMP_MIL_CARGO" lat="40.4828" lon="-3.4559" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="71" type="RAMP_MIL_CARGO" lat="40.4830" lon="-3.4562" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>		
+		
+		<TaxiwayParking parentGroupID="1" index="72" type="RAMP_MIL_CARGO" lat="40.4828" lon="-3.4547" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="73" type="RAMP_MIL_CARGO" lat="40.4831" lon="-3.4550" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="74" type="RAMP_MIL_CARGO" lat="40.4833" lon="-3.4553" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="75" type="RAMP_MIL_CARGO" lat="40.4835" lon="-3.4556" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+
+		<TaxiwayParking parentGroupID="1" index="76" type="RAMP_MIL_CARGO" lat="40.4833" lon="-3.4541" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="77" type="RAMP_MIL_CARGO" lat="40.4835" lon="-3.4545" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="78" type="RAMP_MIL_CARGO" lat="40.4837" lon="-3.4548" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="79" type="RAMP_MIL_CARGO" lat="40.4840" lon="-3.4551" heading="223" radius="30.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+
+		<TaxiwayParking parentGroupID="1" index="80" type="RAMP_MIL_CARGO" lat="40.4838" lon="-3.4523" heading="223" radius="55.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="81" type="RAMP_MIL_CARGO" lat="40.4841" lon="-3.4528" heading="223" radius="55.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="82" type="RAMP_MIL_CARGO" lat="40.4845" lon="-3.4533" heading="223" radius="55.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+
+		<TaxiwayParking parentGroupID="1" index="83" type="RAMP_MIL_CARGO" lat="40.4845" lon="-3.4512" heading="223" radius="15.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="84" type="RAMP_MIL_CARGO" lat="40.4847" lon="-3.4515" heading="223" radius="15.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="85" type="RAMP_MIL_CARGO" lat="40.4849" lon="-3.4518" heading="223" radius="15.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>		
+
+		<TaxiwayParking parentGroupID="1" index="86" type="RAMP_MIL_CARGO" lat="40.4851" lon="-3.4505" heading="223" radius="15.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="87" type="RAMP_MIL_CARGO" lat="40.4853" lon="-3.4507" heading="223" radius="15.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="88" type="RAMP_MIL_CARGO" lat="40.4855" lon="-3.4510" heading="223" radius="15.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="89" type="RAMP_MIL_CARGO" lat="40.48568" lon="-3.4512" heading="223" radius="15.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="90" type="RAMP_MIL_CARGO" lat="40.4858" lon="-3.4515" heading="223" radius="15.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="91" type="RAMP_MIL_CARGO" lat="40.4860" lon="-3.4518" heading="223" radius="15.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" index="92" type="RAMP_MIL_CARGO" lat="40.4862" lon="-3.4520" heading="223" radius="15.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>		
+
+		<!-- Not used -->
+		<TaxiwayParking parentGroupID="1" groupIndex="6" index="46" type="RAMP_MIL_CARGO" lat="40.48436237832119" lon="-3.45320793315231" heading="223" radius="35.000000" name="NONE" number="1" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="1" groupIndex="3" index="47" type="RAMP_MIL_CARGO" lat="40.48387446842099" lon="-3.45251832572659" heading="223" radius="35.000000" name="NONE" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		
+		<!-- Reference points -->
+		<TaxiwayPoint parentGroupID="1" index="93" type="NORMAL" orientation="FORWARD" lat="40.4823" lon="-3.4586"/>
+		<TaxiwayPoint parentGroupID="1" index="94" type="NORMAL" orientation="FORWARD" lat="40.4826" lon="-3.4586"/>
+		<TaxiwayPoint parentGroupID="1" index="95" type="NORMAL" orientation="FORWARD" lat="40.4826" lon="-3.4583"/>
+		<TaxiwayPoint parentGroupID="1" index="96" type="NORMAL" orientation="FORWARD" lat="40.4838" lon="-3.4604"/>
+		<TaxiwayPoint parentGroupID="1" index="97" type="NORMAL" orientation="FORWARD" lat="40.4843" lon="-3.4597"/>
+		<TaxiwayPoint parentGroupID="1" index="98" type="NORMAL" orientation="FORWARD" lat="40.4873" lon="-3.4561"/>
+		<TaxiwayPoint parentGroupID="1" index="99" type="NORMAL" orientation="FORWARD" lat="40.4858" lon="-3.4541"/>
+		<TaxiwayPoint parentGroupID="1" index="100" type="NORMAL" orientation="FORWARD" lat="40.4906" lon="-3.4519"/>
+		<TaxiwayPoint parentGroupID="1" index="101" type="NORMAL" orientation="FORWARD" lat="40.4866" lon="-3.4531"/>
+		<TaxiwayPoint parentGroupID="1" index="102" type="NORMAL" orientation="FORWARD" lat="40.4992" lon="-3.4406"/>
+		<TaxiwayPoint parentGroupID="1" index="103" type="NORMAL" orientation="FORWARD" lat="40.5080" lon="-3.4305"/>
+		
+		
 		<TaxiName index="0" name=""/>
 		<TaxiwayPath parentGroupID="1" groupIndex="5" type="PARKING" surface="{052FEFB1-11E3-4951-B5C4-D93CE253FD9E}" centerLine="TRUE" centerLineLighted="TRUE" start="48" end="47" width="24.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath parentGroupID="1" groupIndex="1" type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="49" end="47" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
@@ -131,10 +197,10 @@
 			<BlastPad end="SECONDARY" surface="{00000000-0000-0000-0000-000000000000}" length="325.000000"/>
 			<ApproachLights end="PRIMARY" system="CALVERT" strobes="0" endLights="TRUE" touchdown="FALSE" snapToGround="TRUE" reil="FALSE" offset="30.480000" spacing="50.000000" slope="0.000000"/>
 			<ApproachLights end="SECONDARY" system="CALVERT" strobes="0" endLights="TRUE" touchdown="FALSE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.480000" slope="0.000000"/>
-			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="45.000000" biasZ="914.500000" spacing="9.000000" pitch="3.000000"/>
-			<Vasi end="PRIMARY" side="RIGHT" type="PAPI4" biasX="45.000000" biasZ="914.500000" spacing="9.000000" pitch="3.000000"/>
-			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="45.000000" biasZ="914.500000" spacing="9.000000" pitch="3.000000"/>
-			<Vasi end="SECONDARY" side="RIGHT" type="PAPI4" biasX="45.000000" biasZ="914.500000" spacing="9.000000" pitch="3.000000"/>
+			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="370.000000" biasZ="914.500000" spacing="9.000000" pitch="3.000000"/>
+			<Vasi end="PRIMARY" side="RIGHT" type="PAPI4" biasX="370.000000" biasZ="914.500000" spacing="9.000000" pitch="3.000000"/>
+			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="460.000000" biasZ="914.500000" spacing="9.000000" pitch="3.000000"/>
+			<Vasi end="SECONDARY" side="RIGHT" type="PAPI4" biasX="460.000000" biasZ="914.500000" spacing="9.000000" pitch="3.000000"/>
 			<RunwayStart end="PRIMARY" lat="40.48514671289972" lon="-3.46010568166774" alt="617.72759644221514" heading="44.33000564575195"/>
 			<RunwayStart end="SECONDARY" lat="40.50843259870697" lon="-3.43133847216741" alt="617.64793863613158" heading="224.33000183105469"/>
 		</Runway>
